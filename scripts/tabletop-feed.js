@@ -28,7 +28,12 @@ function createTableColumns(){
     var tableColumns =   [
 		{'mDataProp': 'name', 'sTitle': 'Name', 'sClass': 'center'},
 		{'mDataProp': 'highestgametotal', 'sTitle': 'Highest Game Total', 'sClass': 'center'},
-		{'mDataProp': 'gamescommented', 'sTitle': 'Games Commented', 'sClass': 'center'}
+		{'mDataProp': 'gamescommented', 'sTitle': 'Games Commented', 'sClass': 'center'},
+		{'mDataProp': 'mostcommentedgame', 'sTitle': 'Most Commented Game', 'sClass': 'center'},
+		{'mDataProp': 'mostcommentedgame', 'sTitle': 'Most Commented Game', 'sClass': 'center'},
+		{'mDataProp': 'mostcommentedgame', 'sTitle': 'Most Commented Game', 'sClass': 'center'}
+
+
 	];
     return tableColumns;
 }
